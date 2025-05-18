@@ -5,3 +5,10 @@ venv/
 .env
 __pycache__/
 *.pyc
+
+data/*
+!data/README.md
+!data/benin_solar.csv
+!data/processed/benin_clean.csv
+!data/sierra_leone_solar.csv
+!data/togo-solar.csv
