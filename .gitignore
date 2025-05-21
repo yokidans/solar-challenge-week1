@@ -1,14 +1,16 @@
-
-# Data
+# Data files
 data/
-data/raw/*
-data/processed/*
 *.csv
-.ipynb_checkpoints/
-venv/
-.env
+
+# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 testenv/
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
