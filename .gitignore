@@ -1,7 +1,16 @@
+# Data files
 data/
 *.csv
-.ipynb_checkpoints/
-venv/
-.env
+
+# Python
 __pycache__/
 *.pyc
+.venv/
+venv/
+testenv/
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
